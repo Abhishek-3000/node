@@ -1,0 +1,7 @@
+[{"customer_id":"itachi","customer_address":"north mumbai","account_type":"savings ","account_balance":1000,"branch":"mumbai","account_status":"active"},
+{"customer_id":"sasuke","customer_address":"north mumbai","account_type":"savings ","account_balance":1000,"branch":"mumbai","account_status":"active"},
+{"customer_id":"naruto","customer_address":"north mumbai","account_type":"savings ","account_balance":1000,"branch":"mumbai","account_status":"active"},
+{"customer_id":"madara","customer_address":"north mumbai","account_type":"current ","account_balance":5000,"branch":"mumbai","account_status":"Blacklisted"},
+{"customer_id":"Obito","customer_address":"north mumbai","account_type":"savings","account_balance":2000,"branch":"mumbai","account_status":"Deactive"},
+{"customer_id":"kakashi","customer_address":"north mumbai","account_type":"savings","account_balance":2000,"branch":"mumbai","account_status":"Deactive"},
+{"customer_id":"orochimaru","customer_address":"north mumbai","account_type":"savings","account_balance":2000,"branch":"mumbai","account_status":"Deactive"}]
